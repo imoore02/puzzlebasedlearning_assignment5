@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-void p1();
+void p2();
 
 int main(){
-	p1();
+	p2();
 	return 0;
 }
 
-void p1(){
+void p2(){
 	int num = 0;
 	double prob;
 	for (int dice_1 = 1; dice_1 < 7; dice_1++){

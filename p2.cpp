@@ -110,7 +110,6 @@ int pick_sum(int sum_onetwo, int sum_onethree, int sum_onefour, int sum_twothree
     
     int randomIndex = distribution(gen);
     
-    // Get the corresponding random number
     int random = results[randomIndex];
 
 	return random;
